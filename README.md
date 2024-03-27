@@ -27,3 +27,13 @@ The first repository for Caraway
 
 ### Code line
 this is how we code in line `let name= "Caraway"`
+
+### code block
+
+``` js
+let cohort="caraway";
+
+let loveMd = true;
+```
+
+
