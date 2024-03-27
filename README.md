@@ -16,3 +16,10 @@ The first repository for Caraway
 
 ## Link a page
 [spiced academy] (www.spiced-academy.com)
+
+## Image
+
+### Image in repo.
+![Ron](./ron.png)
+
+![Flowers](link)
