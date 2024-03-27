@@ -15,4 +15,4 @@ The first repository for Caraway
 3. Item 3
 
 ## Link a page
-[spiced academy] (spiced-academy.com)
+[spiced academy] (www.spiced-academy.com)
