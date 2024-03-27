@@ -21,5 +21,9 @@ The first repository for Caraway
 
 ### Image in repo.
 ![Ron](./ron.png)
-
 ![Flowers](link)
+
+## Code
+
+### Code line
+this is how we code in line `let name= "Caraway"`
